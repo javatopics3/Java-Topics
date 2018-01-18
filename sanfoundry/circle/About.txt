@@ -1,0 +1,8 @@
+Java Program To Calculate Area Of Circle | 5 Ways:::
+
+Sr.No	Different Ways
+1	Static Method
+2	Using Interface
+3	Using Inheritance
+4	Using Method
+

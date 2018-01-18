@@ -1,0 +1,6 @@
+Java Program To Find Area Of Rectangle | 3 Ways:::
+The area of a rectangle formula is :
+Ans:::
+Length X Breadth. Or Length X Width
+
+

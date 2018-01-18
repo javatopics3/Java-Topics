@@ -1,0 +1,8 @@
+Java Program To Calculate Area Of Triangle – 5 Ways:::
+
+sr.No	Table Of Contents
+1	Using static method
+2	Using constructor
+3	when three sides are given
+4	user define method
+

@@ -1,0 +1,17 @@
+Top 10 Algorithms and Data Structures 
+for Competitive Programming:
+Topics=Types
+
+1.Graph algorithms=10
+2.Dynamic programming=10
+3.Searching and Sorting=10
+4.Number theory and Other Mathematical=8
+5.Geometrical and Network Flow Algorithms=10
+6.Data Structures=10
+
+others topics:
+7.Modulo Arithmetic Algorithms=7
+8.Miscellaneous=14
+
+
+
